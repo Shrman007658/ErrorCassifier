@@ -1,0 +1,101 @@
+S.No.,Title,Description
+1,a new window is opening when we double click any folder,a new window is opening when we double click any folder. need to open the folder in the same window
+2,problem in display setting of grid,can not display a particular grid in map window. however the same grid was getting displayed properly in a different workstation from a different user
+3,Not able to open Low frequency model in HRS,Error: Failed opening or creating model: /projectdata/hrs/PROJECTS/RAMNAD_2018_19.prj/share_TMP_DIR_.dir/models.dir/MODEL_INITIAL_MAY.dir/
+4,System hanged,System hanged
+5,system is slow,system is slow
+6,cpy data to processing divison,"kindly copy a data folder ""/dumpdata/EH_TD_DATA/27may/"" to processing division in PG1 (CGG) group. Processing user is ""u125426""."
+7,Display font and application fonts are very small,Display font and application fonts are very small
+8,project permission,Assign full Permission to User 121562 for regional KGPGBASINXY project
+9,Keyboard not working for userid u134422,Keyboard not working for userid u134422
+10,well correlation licence is not available in petrel,well correlation licence is not available in petrel
+11,can not boot the system,hard disk not found. Can not boot the system.
+12,Petrel License getting reset frequently,Petrel License is getting reset every 10 minutes or so. Kindly resolve the issue asap.
+13,related to Hrz.,i am not able to display the horizon in my new project.
+14,GPWS54 working too slow,GPWS54 working too slow. kindly do the needful
+15,frequent loss of petrel license causing inconvenience,frequent loss of petrel license causing inconvenience
+16,petel license frequently disconnecting,Since morning petrel license is frequently disconnecting.
+17,Unable to view Horizons For IP B157_* in WOFF_BASIN_XY,Unable to view Horizons For IP B157_* in WOFF_BASIN_XY
+18,Firefox and LibreOffice is not working.,Firefox and LibreOffice is not working.
+19,SYSTEM SLOW,SYSTEM NOT RESPONDING PROPERLY
+20,can not login to workstation,workstation was restarted yesterday and cant login to workstation now.
+21,project not found,The project GK-28-42_GEOMECH.pet in W:\Petrel Project From GPWS110_inversion is not found while opening the petrel. Plz provide the solution at the earliest. Thanks
+22,big blue patch on screen,big blue patch on screen is hiding the dsg session
+23,Unable to plot,Unable to plot the file.
+24,copy data to processing,"kindly copy a data folder ""/dumpdata/EH_TD_DATA"" to processing division in PG1 (CGG) group. Processing user is ""u125426""."
+25,can not access norsar license at chennai,can not access norsar license at chennai: node not found in include list
+26,need to restore a openworks project for training,need to restore a openworks project for training purpose at 4th floor
+27,Addition of Interpreters in the Projects,"Dear Sir, Kindly include the following Interpreters in the respective projects as mentioned below: 1. Include Ms. Manisha Sarma (CPF: 81565) & Mr. Ashu Kapil (CPF: 125393) in the Project: LIII_MH_SL_2018_IP 2. Include Mr. Ashu Kapil (CPF: 125393) in the Project: EH_TD_2018_IP Regards, Sankhadip"
+28,Periodic Workspace error while working in DSG,Periodic Workspace error while working in DSG
+29,Plots not coming from 3rd floor plotter (hpplot3f),Plots not coming from 3rd floor plotter (hpplot3f)
+30,Dump 1 Cartridge,One cartridge needs to be dumped to disk drive. Please collect it from me and do the needful. I can handover to the concerned person myself too. Dump them into: Z:\INPUT\WON_Gandhar_2019 dump_won: 10.205.17.6
+31,need to disable the user list on login screen of the redhat,need to disable the user list on login screen of the redhat
+32,need to change the CRS in newly created project,need to change the crs in newly created IP: B157_127_2019 from WGS84_43N_WOFF_BASIN to WGS84_42N_WOFF_BASIN
+33,Creation of Landmark Project,"Please create a new Landmark Project: Delineation of Hazad sands in Gandhar Area. Project Title: GANDHAR_IP Interpreter: GN-19 Users: Anil Kumar(82257), Lalit Kumar(125433), Aakash Chuchra(134422)"
+34,GPM License,"Kindly, provide the license of the GPM module in Petrel for this system."
+35,System is not booting,System is not booting
+36,Connectivity issue with Plotter,"Unable to take map print-out from the 1st Floor plotter, assigned for Window system."
+37,VIRUS warning by AVG Antivirus,A virus warning was shown by AVG Antivirus (Screen shot attached)....please look into this issue
+38,Access to WON regional project,"Consequent upon annual transfer of manpower, pl provide access to regional project WON to following cpf nos.- 78302 105247 This has approval of Basin Co-ordinator WON. Regards Manoj"
+39,Access to Basin Project data base,Please provide access to project data base KGPGBASINXY to my userid. thanks
+40,Restoration of old Petrel Projects,B&S Asset has asked for backup of the following projects: 1. Reservoir Characterization of South Bassein Field (2017-18) 2. Reservoir Characterization of B-193 Field (2016-17) Plz restore only the petrel projects ASAP.
+41,MS one drive error pops up at random and system runs slow,MS one drive error pops up at random and system runs slow
+42,MS Office files shows problem while opening,MS Office files shows problem while opening
+43,network issue,network problem in the workstation. Please check
+44,Plots not coming from 6th floor plotter,Plots not coming from 6th floor plotter
+45,plotter installation for pdf fies required,pl configure plotter for pdf fies from WINDOWS system
+46,Request to dump cartridge,Path: dumpdata/INPUT/AP152
+47,need to create a new LTO6,need to create a copy of geoframe project backup in LTO6 for WON basin
+48,Petrel not responding on loading LAS file,Petrel not responding on loading LAS file
+49,Anaconda-navigator command does not exist,"anaconda-navigator command not found. Although I was working in anaconda- navigator till yesterday evening. System was very slow, I restarted the system today. After restart of system, anaconda-navigator command is not working."
+50,need to create a new openworks project,need to create a new openworks project
+51,geolog18 getting hanged.,geolog18 getting hanged.
+52,Plz install HRS 10.4,Plz install HRS 10.4
+53,Refill the ink of the printer RICOH-PCL6 for the 3rd floor A wing,Refill the ink for RICOH 3rd floor a wing
+54,Geolog 18 not launching,Geolog 18 not launching
+55,can not print,can not plot any cgm files through cgm builder
+56,Plots not coming from 1st floor plotter,Plots not coming from 1st floor plotter
+57,"Workstation details list for WOFF group, 1st floor","Workstation details list for WOFF group, 1st floor, is updated by physically verifying every workstation in the above group."
+58,workstation detail verification of R&D group in 4th floor,workstation detail verification of R&D group in 4th floor
+59,"workstation detail verification of WON, Assam basin and ppg in 3rd floor group","workstation detail list of WON, Assam basin and ppg 3rd floor group is updated by physically verifying every workstation in the above mentioned groups."
+60,Request to Install paradigm plugin for petrel 18,Request to Install paradigm plugin for petrel 18
+61,colour scheme has changed in the openworks session,colour scheme has changed in the openworks session - not able to read text in dark background
+62,unable to plot through zps,unable to plot through zps: license checkout failed
+63,"workstation detail list of cauvery, kg and ppg 6th floor group","workstation detail list of cauvery, kg and ppg 6th floor group is updated by physically verifying every workstation in the above mentioned groups."
+64,Project folder copying from gpws88 to gpws111,Pls copy the project folder from machine gpws88 to gpws111 at location /project data/Data_Analytics_2018/
+65,Opendtect problem,opendtect software crashing frequently
+66,Creation of Project,"Please create a project titled as "" B-157-127_RESERVOIR_2019-20"" in Geoframe. Thank you"
+67,Petrel Licence Server Not Working,Petrel license lost
+68,Plots not coming from 6th floor plotter,Plots not coming from 6th floor plotter
+69,load the Data from cartridges,"please load the Data from cartridges, following Directory /dumpdata/INPUT/KS_2019-20."
+70,System is slow,System is slow
+71,Unable to view horizons in IP project WO_5_15_19_IP.,Unable to view horizons in IP project WO_5_15_19_IP.
+72,Unable to access dumpdata partition in workstation (User Vikas Saluja CPF-77792),The mapped network drive corresponding to dumpdata of WOF basin is not accessible
+73,Request from R&D group to send data to IIT KGP,Data request from IIT Kharagpur under Pan IIT ONGC collborative project. Fault mapping and facies prediction using big data analytics. (User - S.K. Singh CPF 73775)
+74,plot not responding from here to 6th & 1st floor,plot not responding from here to 6th & 1st floor
+75,create new survey,Please create a new survey for the Project Play fairway analysis and reservoir characterisation of Bassein and Panna pays in B-157/127 area through prestack geostatistical analysis using newly acquired broad band data
+76,copy data,sftp ftpuser@10.205.147.109 password: ftpuser upload directory(LIV and H3A ZAP horizon)
+77,Data copy in Tape,please copy segy data in a tape.path: /userhome/u105385/Desktop/SeismicData_for_KG_Basin
+78,Tape Dump,Kindly dump gather data from provided cartridge
+79,To create IP project for 2019-20,Please create IP project for 2019-20 as early as possible.
+80,Printer not installed,please install the printer
+81,REQUEST TO INSTALL LIBRE OFFICE IN THE SYSYTEM,REQUEST TO INSTALL LIBRE OFFICE IN THE SYSTEM
+82,loading of segy data from tapes.,please load the seismic data from tapes.
+83,access to project NAS_MEGAMERGE_IP,KINDLY PROVIDE ACCESS TO THE ABOVE MENTIONED PROJECT TO THE SYSTEM GPWS38
+84,kappa license update,kappa license update
+85,landmark licenses updated,landmark licenses updated
+86,norsar license update,norsar license update
+87,jason license update for Mumbai region and reservation on one license,jason license update for Mumbai region and reservation on one license
+88,User Creation,Please creat my user id and password in the system gpws113
+89,Licence Issue,I am not able to release the Jason Licences from GPWS-90 . plz resolved it. thanking you
+90,KIndly create Project in Landmark.,"KIndly create Project in Landmark for Reservoir Characterization and GCM of Panna, Bassein and Mukta pays in WO-5 and WO-15 areas. Regards, Shalini"
+91,Tape Dump,Kindlu dump gather data from provided tape
+92,Please dump data from 4 Cartridges and 1 DVD to 'Dumpdata' folder.,"Please dump data from following 4 Cartridges and 1 DVD to 'Dumpdata' folder: S01939 S01942 S01986 S01944 D04186 Thanks & Regards, Shalini"
+93,REQUEST FOR IP Project Creation B193_19_IP,REQUEST FOR IP Project Creation B193_19_IP
+94,Tape dump at /dumpdata/INPUT\WBWN_300419,PLZ DUMP 7 TAPES TO /dumpdata/INPUT\WBWN_300419
+95,Deletion of snapshot,Please delete snapshot of projectdata of gpws95.
+96,tabs are not showing on Bottom tool bar,please rectify tabs are not showing on Bottom tool bar
+97,REQUEST TO CREATE A NEW PROJECT IP.,REQUEST TO CREATE A NEW PROJECT IP
+98,Request to create new Project IP.,Request to create new Project IP.
+99,Petrel bundle license not available,Petrel license is not available
+100,printing issue,not able to print any document from this workstation
